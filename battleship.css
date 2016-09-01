@@ -1,4 +1,5 @@
 body {
+  background-color: inherit;
     margin: 60px auto;
     width: 70%;
     max-width: 950px;
